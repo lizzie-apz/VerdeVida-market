@@ -1,0 +1,16 @@
+VERDEVIDA MARKET - SITIO DE 21 PÁGINAS
+
+Abre index.html en un navegador. Cada cuadro del organigrama tiene un archivo HTML propio: página principal, cinco páginas de menú y quince subpáginas. Todos comparten styles.css, script.js y assets/.
+
+Página principal: index.html
+Inicio: inicio.html, bienvenida.html, ofertas.html, testimonios.html
+Productos: productos.html, frutas.html, verduras.html, lacteos.html
+Servicios: servicios.html, entrega.html, asesoria.html, campo.html
+Nosotros: nosotros.html, historia.html, valores.html, equipo.html
+Contacto: contacto.html, formulario.html, ubicacion.html, redes.html
+
+La navegación superior, las tarjetas y la ruta de navegación enlazan páginas separadas. No se utilizan secciones de una sola página para representar el organigrama.
+
+El formulario valida sin enviar ni guardar mensajes. La dirección y las redes oficiales requieren confirmación. El mapa externo requiere Internet. Las imágenes se recortaron de la referencia del PDF para uso académico.
+
+Completa los nombres, docente, NRC y la participación real del grupo antes de entregar el informe.

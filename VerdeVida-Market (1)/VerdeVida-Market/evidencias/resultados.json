@@ -1,0 +1,459 @@
+[
+  {
+    "pagina": "asesoria.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "bienvenida.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "campo.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "contacto.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "entrega.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "equipo.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "formulario.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "frutas.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "historia.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "index.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "inicio.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "lacteos.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "nosotros.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "ofertas.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "productos.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "redes.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "servicios.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "testimonios.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "ubicacion.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "valores.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "verduras.html",
+    "vista": "escritorio",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "asesoria.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "bienvenida.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "campo.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "contacto.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "entrega.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "equipo.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "formulario.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "frutas.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "historia.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "index.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "inicio.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "lacteos.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "nosotros.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "ofertas.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "productos.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "redes.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "servicios.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "testimonios.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "ubicacion.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "valores.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "verduras.html",
+    "vista": "tablet",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "asesoria.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "bienvenida.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "campo.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "contacto.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "entrega.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "equipo.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "formulario.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "frutas.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "historia.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "index.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "inicio.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "lacteos.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "nosotros.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "ofertas.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "productos.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "redes.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "servicios.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "testimonios.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "ubicacion.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "valores.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "pagina": "verduras.html",
+    "vista": "movil",
+    "sinDesborde": true,
+    "imagenes": true,
+    "enlacesValidos": true
+  },
+  {
+    "navegacionMenuSubpagina": true
+  },
+  {
+    "rechazaVacio": true
+  },
+  {
+    "rechazaCorreo": true
+  },
+  {
+    "formularioValido": true
+  },
+  {
+    "paginas": 21,
+    "erroresJavaScript": []
+  }
+]
